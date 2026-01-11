@@ -1,0 +1,1 @@
+This is my first React Mini Project. With this project implementation, I've understood the concepts work flow and usage of props, UseEffect, API rendering using AXIOS. Hope I'll do more like these different projects and challenges.
